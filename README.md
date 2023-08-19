@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **anmol.garg594@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/174RAel7qjx4XZcAA9pbbrmEtv0JgGfXr/view?usp=drivesdk](https://drive.google.com/file/d/174RAel7qjx4XZcAA9pbbrmEtv0JgGfXr/view?usp=drivesdk)
+- 📄 Know about my experiences, see my [resume](https://drive.google.com/file/d/174RAel7qjx4XZcAA9pbbrmEtv0JgGfXr/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
