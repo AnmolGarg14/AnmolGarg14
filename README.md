@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anmol Garg</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [anmolgarg.vercel.app](anmolgarg.vercel.app)
+- 👨‍💻 All of my projects are available at [https://anmolgarg.vercel.app](https://anmolgarg.vercel.app)
 
 - 📫 How to reach me **anmol.garg594@gmail.com**
 
